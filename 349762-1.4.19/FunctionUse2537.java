@@ -1,0 +1,7 @@
+import com.thoughtworks.xstream.io.xml.WstxDriver;
+public class FunctionUse2537 {
+public void funcUse() {
+WstxDriver wstxdriver = new WstxDriver();
+wstxdriver.createOutputFactory();
+}
+}

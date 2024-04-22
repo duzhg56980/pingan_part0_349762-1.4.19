@@ -1,0 +1,6 @@
+import com.thoughtworks.xstream.converters.reflection.AbstractAttributedCharacterIteratorAttributeConverter;
+public class FunctionUse118 {
+public void funcUse() {
+AbstractAttributedCharacterIteratorAttributeConverter abstractattributedcharacteriteratorattributeconverter = new AbstractAttributedCharacterIteratorAttributeConverter();
+}
+}
